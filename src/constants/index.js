@@ -155,29 +155,6 @@ const projects = [
     demo: 'https://shaqdeff.github.io/KomiKult/',
   },
   {
-    id: 'project-2',
-    name: 'Leaderboard',
-    description:
-      'A leaderboard list app that displays scores submitted by different players.',
-    tags: [
-      {
-        name: 'react',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'restapi',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'scss',
-        color: 'pink-text-gradient',
-      },
-    ],
-    image: leaderboard,
-    repo: 'https://github.com/shaqdeff/Leaderboard',
-    demo: 'https://shaqdeff.github.io/Leaderboard/',
-  },
-  {
     id: 'project-3',
     name: 'Math Magicians',
     description: 'This is a single-page calculator app built with React',
